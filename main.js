@@ -1,6 +1,4 @@
-import './style.css'
-
-
+import './public/style.css'
 
 document.querySelector('#app').innerHTML = `
 <div class="contenedor">
